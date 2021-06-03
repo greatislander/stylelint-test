@@ -1,0 +1,10 @@
+{
+    "lintspaces": {
+        "jsonindentation": {
+            "excludes": ["./package-lock.json"]
+        }
+    },
+    "stylelint": {
+        "includes": ["./styles/*.css"]
+    }
+}

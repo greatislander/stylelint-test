@@ -1,0 +1,23 @@
+{
+    "name": "stylelint-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "fluid-lint-all"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/greatislander/stylelint-test.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/greatislander/stylelint-test/issues"
+    },
+    "homepage": "https://github.com/greatislander/stylelint-test#readme",
+    "devDependencies": {
+        "fluid-lint-all": "^1.1.1"
+    }
+}
