@@ -18,6 +18,6 @@
     },
     "homepage": "https://github.com/greatislander/stylelint-test#readme",
     "devDependencies": {
-        "fluid-lint-all": "^1.1.1"
+        "fluid-lint-all": "1.1.4-dev.20210604T111117Z.fa5f34f.GH-39"
     }
 }
